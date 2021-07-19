@@ -1,5 +1,5 @@
 # EzilDetail
-V1.1打包程序在releases下载.....
+此为V1.1程序源码，可执行程序在releases下载.....
 
 
 使用说明：
