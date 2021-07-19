@@ -1,4 +1,7 @@
 # EzilDetail
+V1.1打包程序在releases下载.....
+
+
 使用说明：
 1、请把钱包地址【ETH.ZIL】格式写入EzilWalet.txt文件中，可以识别多个地址，请用回车隔开。
 2、打开EzilDetail程序，根据程序顺序执行操作。
